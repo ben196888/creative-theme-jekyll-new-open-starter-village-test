@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: 「開源星手村」桌遊工作坊
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    創造你的「源」力
   action: # action button is optional
     label: Find Out More
     url: '#about'
